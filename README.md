@@ -7,13 +7,13 @@ Nour Eddine's Chatbot is a Simple chatbot created in Java, it interact with user
 ---
 ## Table of contents
 
- - [Introduction](#introduction) 
+ - [Overview ](#overview ) 
  - [Technologies](#technologies)
  - [How To Use](#how-to-use) 
  - [Author Info](#autor-info)
  
  ---
- ### Introduction
+ ### Overview 
 You remember the first chatbot Eliza, was created by MIT in the 1960s. Today if the conversational agents are booming. Yes, This is due to the many technological advances that have taken place in recent years. And this is the reason why I turned in my project, towards the realization of a chatbot that we will see its details later.
 
 My chatbot is written in Java, is intended to answer questions that are asked on the dialog box based on a small database. My chatbot is simple, but adaptive, that is, we can link it to a specific domain, and so help us in this area.
