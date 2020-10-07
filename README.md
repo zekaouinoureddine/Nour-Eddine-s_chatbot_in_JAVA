@@ -30,10 +30,10 @@ Download the source code for the project, then put it in the eclipse workspace f
  
  ---
 If you have some tricky things to improve this simple chatbot then do it, don't forget to share with me, I will be grateful to you !
- ### Author Infor
+ ### Author Info
   - LinkedIn : [Nour Eddine ZEKAOUI](https://www.linkedin.com/in/nour-eddine-zekaoui-ba43b1177/)
 --- 
 Thank you for your intrest ☻
-[Back To The Top](#nour-eddine-s-chatbot-in-java)
+[Back To The Top](#description)
  
 
