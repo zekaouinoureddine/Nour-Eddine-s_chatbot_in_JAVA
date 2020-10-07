@@ -2,7 +2,7 @@
 ---
 ## Description
 
-Nour Eddine's Chatbot is a Simple chatbot created in Java, it interact with users by responding to theire questions. This chatbot is equipped with a dialog interface which is easy to use. Users can write and send their message in a very simple way by clicking on the send button or enter on the keyboard.
+Nour Eddine's Chatbot is a Simple chatbot created in Java, it interact with users by responding to theire questions. This chatbot is equipped with a dialog interface which is easy to use. Users can write and send their messages in a very simple way by clicking on the send button or enter on the keyboard.
 
 ---
 ## Table of contents
