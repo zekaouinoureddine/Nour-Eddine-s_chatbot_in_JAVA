@@ -10,7 +10,7 @@ Nour Eddine's Chatbot is a Simple chatbot created in Java, it interact with user
  - [Introduction](#introduction) 
  - [Technologies](#technologies)
  - [How To Use](#how-to-use) 
- - [Auhor Info](#autor-info)
+ - [Author Info](#autor-info)
  
  ---
  ### Introduction
