@@ -1,6 +1,6 @@
 /*
  * author; @NourEddineZEKAOUI
- * Pject : A simple chatbot with an 
+ * Project : A simple chatbot with an 
  *         awesome dialog box !
  */
 
