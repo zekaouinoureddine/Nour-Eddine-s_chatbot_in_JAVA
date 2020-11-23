@@ -10,7 +10,7 @@
  - [Overview ](#overview ) 
  - [Technologies](#technologies)
  - [How To Use](#how-to-use) 
- - [Author Info](#autor-info)
+ - [Author Info](#author-info)
  
  ---
  ### Overview 
